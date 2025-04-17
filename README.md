@@ -12,5 +12,5 @@ This is a long term project that I initially started to learn HTML and CSS.
 Updates to the website will come overtime.
 This website is hosted through GitHub Pages, coded with VS Code.
 
-Website created and worked on by DJ Moth. An ethical hacker, DJ, and compsci student from New Zealand.
-Don't hesitate to contact her if you have suggestions.
+
+Project discontinued
