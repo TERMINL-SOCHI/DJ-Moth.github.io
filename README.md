@@ -13,4 +13,4 @@ Updates to the website will come overtime.
 This website is hosted through GitHub Pages, coded with VS Code.
 
 
-Project discontinued
+Project by TERMINL SOCHI, with help from ChatGPT
