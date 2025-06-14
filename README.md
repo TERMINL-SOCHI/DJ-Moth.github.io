@@ -1,4 +1,4 @@
-Hello! This is a website I worked on to learn more about HTML, CSS, and JavaScript! Enjoy!
+Hello! This is a website I worked on to learn more about HTML, CSS, JavaScript, and frontend development! Enjoy!
 
 I will work more on this website over time, but for now it remains untouched. Please enjoy my trashy website!
 
